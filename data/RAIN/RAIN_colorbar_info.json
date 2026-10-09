@@ -1,0 +1,28 @@
+{
+  "variable": "RAIN",
+  "colorbar_min": 0.001,
+  "colorbar_max": 0.5312690734863281,
+  "unit": "mm",
+  "percentiles_used": "2-98%",
+  "actual_data_min": 0.0,
+  "actual_data_max": 78.8719711303711,
+  "ticks": [
+    0.0,
+    0.10000000149011612,
+    0.30000001192092896,
+    0.4000000059604645,
+    0.5,
+    1.0
+  ],
+  "use_log_scale": true,
+  "log_linear_threshold": 1.0,
+  "tick_labels": [
+    "0.00mm",
+    "0.1mm",
+    "0.3mm",
+    "0.4mm",
+    "0.5mm",
+    "1.0mm"
+  ],
+  "resolution_m": 1500
+}
